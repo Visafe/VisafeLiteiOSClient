@@ -2216,13 +2216,6 @@
 			path = RequestDetailsScreen;
 			sourceTree = "<group>";
 		};
-		7E6E73B223F6C5D7001D5019 /* RateApp */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = RateApp;
-			sourceTree = "<group>";
-		};
 		7E74FCB1239F9CA0006C0990 /* MainPage */ = {
 			isa = PBXGroup;
 			children = (
@@ -2713,7 +2706,6 @@
 		D0F91165212EDE45006DF0D3 /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
-				7E6E73B223F6C5D7001D5019 /* RateApp */,
 				7E8AC81523A7BF2700669C75 /* MainTabBar */,
 				D0EDE45422A9288E00086C00 /* Tutorial */,
 				7E31217024DC024E00642879 /* BottomAlertController */,
