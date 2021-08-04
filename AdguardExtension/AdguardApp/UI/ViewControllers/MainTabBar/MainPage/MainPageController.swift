@@ -18,7 +18,7 @@
 
 import UIKit
 
-class MainPageController: UIViewController, DateTypeChangedProtocol, NumberOfRequestsChangedDelegate, ComplexSwitchDelegate,  GetProControllerDelegate, MainPageModelDelegate {
+class MainPageController: UIViewController, DateTypeChangedProtocol, NumberOfRequestsChangedDelegate, ComplexSwitchDelegate,   MainPageModelDelegate {
     
     var ready = false
     var onReady: (()->Void)? {
