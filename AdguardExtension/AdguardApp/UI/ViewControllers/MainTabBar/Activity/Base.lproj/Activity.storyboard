@@ -1017,9 +1017,6 @@
                                 <variation key="heightClass=regular-widthClass=regular">
                                     <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                 </variation>
-                                <connections>
-                                    <segue destination="hiO-0L-XhV" kind="show" id="1uN-5y-5rj"/>
-                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="WKC-8f-gkR"/>
@@ -1465,16 +1462,6 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="H07-QZ-fPk" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="5159" y="526"/>
-        </scene>
-        <!--License-->
-        <scene sceneID="heo-cW-Yf9">
-            <objects>
-                <viewControllerPlaceholder storyboardName="License" id="hiO-0L-XhV" sceneMemberID="viewController">
-                    <navigationItem key="navigationItem" id="nv6-2o-0pf"/>
-                </viewControllerPlaceholder>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="QoU-xn-DX6" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="2641" y="493"/>
         </scene>
         <!--Activity View Controller-->
         <scene sceneID="MKS-mT-4Xy">
