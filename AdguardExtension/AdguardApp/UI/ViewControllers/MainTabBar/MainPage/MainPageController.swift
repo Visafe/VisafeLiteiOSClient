@@ -198,7 +198,6 @@ class MainPageController: UIViewController, DateTypeChangedProtocol, NumberOfReq
 //        complexProtectionSwitch.delegate = self
         mainPageModel.delegate = self
         
-        dateTypeChanged(dateType: resources.chartDateType)
         
         contentBlockersGestureRecognizer = UIPanGestureRecognizer(target: self, action: #selector(handleContentBlockersView(_:)))
         if let recognizer = contentBlockersGestureRecognizer {
@@ -316,13 +315,7 @@ class MainPageController: UIViewController, DateTypeChangedProtocol, NumberOfReq
         updateProtectionStates()
     }
     
-    @IBAction func vpnUpsellTapped(_ sender: RoundRectButton) {
-        if UIApplication.adGuardVpnIsInstalled {
-            UIApplication.openAdGuardVpnAppIfInstalled()
-        } else {
-            presentUpsellScreen()
-        }
-    }
+
     
     // MARK: - Complex protection switch action
     
@@ -381,7 +374,6 @@ class MainPageController: UIViewController, DateTypeChangedProtocol, NumberOfReq
     // MARK: - DateTypeChangedProtocol method
     
     func dateTypeChanged(dateType: ChartDateType) {
-        resources.chartDateType = dateType
         changeStatisticsDatesButton.setTitle(dateType.getDateTypeString(), for: .normal)
         chartModel.chartDateType = dateType
     }
