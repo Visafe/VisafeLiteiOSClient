@@ -10,7 +10,6 @@
 <br>
 <div style="text-align: center">Visafe được nghiên cứu, phát triển bởi đội ngũ kỹ sư an toàn, an ninh mạng nhiều kinh nghiệm từ Trung tâm Giám sát an toàn không gian mạng quốc gia với tư duy đơn giản hóa các vấn đề an toàn thông tin, giúp mọi người có thể tự tin khai thác, sử dụng Internet hiệu quả, an toàn</div>
 
----
 <h3 align="left">1. Các tính năng của Visafe</h3>
 
 + Bảo vệ mọi lúc mọi nơi
@@ -49,7 +48,7 @@ Xem thêm tại: https://visafe.vn
 <br>
 <div style="text-align: center">Visafe was researched and developed by experienced security engineers working at the National Cyber Security Center of Vietnam, with the purpose of simplifying protection methods against common cyber threats so that people can have a safer internet environment.</div>
 
----
+
 <h3 align="left">1. Visafe’s features</h3>
 
 + Protection at any time and everywhere:
