@@ -31,6 +31,12 @@
 + Cơ quan chính phủ
 
 
+<h3 align="left">3. Cách sử dụng mã nguồn</h3>
+
++ Phiên bản Xcode 12.5
++ Phiên bản hệ điều hành: macOS Big Sur 11.6.1 
+
+
 Phát triển dựa trên
 https://github.com/AdguardTeam/AdguardForiOS
 
@@ -67,6 +73,12 @@ Xem thêm tại: https://visafe.vn
 + Education organizations, schools.
 + Enterprises.
 + Government agents.
+
+
+<h3 align="left">3. How to build</h3>
+
++ Xcode version: 12.5
++ Operating system version: macOS Big Sur 11.6.1 
 
 
 Developed based on: https://github.com/AdguardTeam/AdguardForiOS
