@@ -1,3 +1,6 @@
+<p align="left">
+  <h5>Ngôn ngữ: Tiếng Việt</h5> 
+</p>
 <p align="center">
   <img width="300px" src="https://app.visafe.vn/static/media/wesafe_icon.ddf9251c.png"/>
 </p>
@@ -33,3 +36,40 @@ Phát triển dựa trên
 https://github.com/AdguardTeam/AdguardForiOS
 
 Xem thêm tại: https://visafe.vn 
+
+----
+<p align="left">
+  <h5>Language: English</h5> 
+</p>
+<p align="center">
+  <img width="300px" src="https://app.visafe.vn/static/media/wesafe_icon.ddf9251c.png"/>
+</p>
+<h1 align="center">Visafe - Vietnam Internet Secure Internet Access For Everyone</h1>
+<div style="text-align: center">Visafe is a free application created for all Vietnamese people to protect themselves and their families from malware, unsafe websites, scams, and dangerous advertisements.</div>
+<br>
+<div style="text-align: center">Visafe was researched and developed by experienced security engineers working at the National Cyber Security Center of Vietnam, with the purpose of simplifying protection methods against common cyber threats so that people can have a safer internet environment.</div>
+
+---
+<h3 align="left">1. Visafe’s features</h3>
+
++ Protection at any time and everywhere:
+    * Prevents malware and cyber attacks.
+    + Blocks tracking and illegal advertisements.
++ Internet under control:
+    * Service and app control.
+    + Safe search.
++ Better internet.
+
+
+<h3 align="left">2. Who should use Visafe:</h3>
+
++ Individuals.
++ Families.
++ Education organizations, schools.
++ Enterprises.
++ Government agents.
+
+
+Developed based on: https://github.com/AdguardTeam/AdguardForiOS
+
+Detailed information: https://visafe.vn 
