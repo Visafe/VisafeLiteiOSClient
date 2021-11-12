@@ -44,7 +44,7 @@ Xem thêm tại: https://visafe.vn
 <p align="center">
   <img width="300px" src="https://app.visafe.vn/static/media/wesafe_icon.ddf9251c.png"/>
 </p>
-<h1 align="center">Visafe - Vietnam Internet Secure Internet Access For Everyone</h1>
+<h1 align="center">Visafe - Vietnam Internet Secure Access For Everyone</h1>
 <div style="text-align: center">Visafe is a free application created for all Vietnamese people to protect themselves and their families from malware, unsafe websites, scams, and dangerous advertisements.</div>
 <br>
 <div style="text-align: center">Visafe was researched and developed by experienced security engineers working at the National Cyber Security Center of Vietnam, with the purpose of simplifying protection methods against common cyber threats so that people can have a safer internet environment.</div>
