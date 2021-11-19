@@ -6,9 +6,12 @@
 </p>
 <h1 align="center">Visafe - Internet an toàn cho người Việt</h1>
 
-<div style="text-align: center">Visafe là ứng dụng miễn phí dành cho mọi người dân Việt Nam có thể tự bảo vệ mình và người thân trên không gian mạng khỏi mã độc, trang web độc hại, lừa đảo, quảng cáo nguy hiểm</div>
+<div style="text-align: center">Visafeios Lite fork từ AdguardForiOS là ứng dụng miễn phí dành cho mọi người dân Việt Nam có thể tự bảo vệ mình và người thân trên không gian mạng khỏi mã độc, trang web độc hại, lừa đảo, quảng cáo nguy hiểm</div>
 <br>
 <div style="text-align: center">Visafe Lite là phiên bản rút gọn của Visafe dành cho các thiết bị thấp hơn iOS, iPadOS 14 với duy nhất tính năng 1 chạm để bảo vệ. Để sử dụng các tính năng nâng cao, cá nhân hóa, vui lòng sử dụng phiên bản Visafe đầy đủ.</div>
+
+<div style="text-align: center"> Phiên bản rút gọn này của Visafe giúp bất kỳ ai cũng trở thành client DNS over HTTPS sử dụng pseudo VPN. Các bạn có thể tham khảo thêm về DNS privacy tại: https://dnsprivacy.org/
+  </div>
 
 <h3 align="left">1. Các tính năng của Visafe</h3>
 
@@ -70,11 +73,13 @@ Xem thêm tại: https://visafe.vn
   <img width="300px" src="https://app.visafe.vn/static/media/wesafe_icon.ddf9251c.png"/>
 </p>
 <h1 align="center">Visafe - Vietnam Internet Secure Access For Everyone</h1>
-<div style="text-align: center">Visafe is a free application created for all Vietnamese people to protect themselves and their families from malware, unsafe websites, scams, and dangerous advertisements.</div>
+<div style="text-align: center">VisafeiOSLite, forked from AdguardForiOS, is a free application created for all Vietnamese people to protect themselves and their families from malware, unsafe websites, scams, and dangerous advertisements.</div>
 <br>
 <div style="text-align: center">Visafe Lite is a stripped-down version of Visafe-Internet an toàn for iOS and iPad devices, whose software version is under 14. This app can protect you with the 1-touch feature. To use advanced features, please use Visafe - Internet an toàn.</div>
 
-
+<div style="text-align: center"> This stripped-down version of Visafe allow anyone to be a DNS client over HTTPS using pseudo VPN. Feel free to copy and contribute to this project. Checkout more about DNS privacy at: https://dnsprivacy.org/
+  </div>
+  
 <h3 align="left">1. Visafe’s features</h3>
 
 + Protection at any time and everywhere:
