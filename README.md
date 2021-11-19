@@ -4,27 +4,19 @@
 <p align="center">
   <img width="300px" src="https://app.visafe.vn/static/media/wesafe_icon.ddf9251c.png"/>
 </p>
-<h1 align="center">Visafe - Internet an toàn cho người Việt</h1>
+<h1 align="center">Visafe - Internet an toàn</h1>
 
-<div style="text-align: center">Visafeios Lite fork từ AdguardForiOS là ứng dụng miễn phí dành cho mọi người dân Việt Nam có thể tự bảo vệ mình và người thân trên không gian mạng khỏi mã độc, trang web độc hại, lừa đảo, quảng cáo nguy hiểm</div>
+### Repo VisafeiOS Legacy được chuyển sang maintance tại repo VisafeLightiOSClient
+
+<div style="text-align: center">Visafe Lite iOS là ứng dụng miễn phí để người sử dụng có thể bảo vệ mình và người thân trên không gian mạng khỏi các hình thức tấn công mạng cơ bản của mã độc, trang web độc hại, lừa đảo, quảng cáo nguy hiểm. </div>
 <br>
-<div style="text-align: center">Visafe Lite là phiên bản rút gọn của Visafe dành cho các thiết bị thấp hơn iOS, iPadOS 14 với duy nhất tính năng 1 chạm để bảo vệ. Để sử dụng các tính năng nâng cao, cá nhân hóa, vui lòng sử dụng phiên bản Visafe đầy đủ.</div>
-
-<div style="text-align: center"> Phiên bản rút gọn này của Visafe giúp bất kỳ ai cũng trở thành client DNS over HTTPS sử dụng pseudo VPN. Các bạn có thể tham khảo thêm về DNS privacy tại: https://dnsprivacy.org/
+<div style="text-align: center">Visafe Lite iOS là phiên bản rút gọn của Visafe dành cho các thiết bị thấp hơn iOS, iPadOS 14 với duy nhất tính năng 1 chạm để bảo vệ do các thiết bị này chưa hỗ trợ native DNS Over HTTPS để được bảo vệ qua máy chủ của Visafe. Để contribute các tính năng nâng cao khác (security scan, custom,...) vui lòng tham khảo project https://github.com/Visafe/VisafeiOSClient</div>
+<br>
+<div style="text-align: center"> Đây là bản fork từ dự án mã nguồn mở AdguardForiOS (https://github.com/AdguardTeam/AdguardForiOS) theo giấy phép GPL-v3. Bạn có thể chỉnh sửa để cấu hình thành client DNS over HTTPS sử dụng pseudo VPN bằng cách cấu hình trong file config. Để xây dựng hạ tầng DNS Over HTTPS, bạn có thể tham khảo thêm hướng dẫn chi tiết của dự án DNS privacy (https://dnsprivacy.org/) hoặc liên hệ với chúng tôi để được chia sẻ kinh nghiệm.
   </div>
 
-<h3 align="left">1. Các tính năng của Visafe</h3>
 
-+ Bảo vệ mọi lúc mọi nơi
-    * Chặn mã độc, tấn công mạng
-    + Chặn theo dõi và những quảng cáo vi phạm
-+ Tự làm chủ Internet của mình
-    * Quản lý nội dung tìm kiếm
-+ Sử dụng Internet hiệu quả
-
-
-
-<h3 align="left">2. Cách sử dụng mã nguồn</h3>
+<h3 align="left">1. Cách build thủ công</h3>
 
 + Phiên bản Xcode 12.5
 + Phiên bản hệ điều hành: macOS Big Sur 11.6.1 
@@ -56,7 +48,7 @@ Chạy câu lệnh bundle install:
 
 - `bundle exec fastlane prepare`
 
-### Cách build tự động
+### 2. Cách build tự động
 
 - `bundle exec fastlane build` 
 
@@ -69,29 +61,22 @@ Xem thêm tại: https://visafe.vn
 <p align="left">
   <h5>Language: English</h5> 
 </p>
-<p align="center">
-  <img width="300px" src="https://app.visafe.vn/static/media/wesafe_icon.ddf9251c.png"/>
-</p>
-<h1 align="center">Visafe - Vietnam Internet Secure Access For Everyone</h1>
-<div style="text-align: center">VisafeiOSLite, forked from AdguardForiOS, is a free application created for all Vietnamese people to protect themselves and their families from malware, unsafe websites, scams, and dangerous advertisements.</div>
+
+### VisafeiOS Legacy Repository migrated and now maintance at VisafeLightiOSClient
+
+<div style="text-align: center">VisafeiOSLite, forked from AdguardForiOS, is a free application created to protect users and their families from malware, unsafe websites, scams, and dangerous advertisements.</div>
+
 <br>
-<div style="text-align: center">Visafe Lite is a stripped-down version of Visafe-Internet an toàn for iOS and iPad devices, whose software version is under 14. This app can protect you with the 1-touch feature. To use advanced features, please use Visafe - Internet an toàn.</div>
+<div style="text-align: center">Visafe Lite is a stripped-down version of Visafe for iOS and iPad devices, whose software version is under 14. Since prior to iOS 14, native DNS Over HTTPS is not build in, VisafeiOSLite allow users device connect to Visave server with a single button. To use advanced features, please use Visafe (https://github.com/Visafe/VisafeiOSClient).</div>
+<br>
 
-<div style="text-align: center"> This stripped-down version of Visafe allow anyone to be a DNS client over HTTPS using pseudo VPN. Feel free to copy and contribute to this project. Checkout more about DNS privacy at: https://dnsprivacy.org/
+<div style="text-align: center">   This version of Visafe is a forked repository from AdguardForiOS (https://github.com/AdguardTeam/AdguardForiOS) follow GPL-v3 lience. Feel free to change its config file to modify DNS over HTTPS using pseudo VPN. Checkout more detail about DNS privacy at https://dnsprivacy.org/ or reach out to us for more information.
+
   </div>
-  
-<h3 align="left">1. Visafe’s features</h3>
-
-+ Protection at any time and everywhere:
-    * Prevents malware and cyber attacks.
-    + Blocks tracking and illegal advertisements.
-+ Internet under control:
-    * Safe search.
-+ Better internet.
 
 
 
-<h3 align="left">2. How to build</h3>
+<h3 align="left">1. How to build</h3>
 
 + Xcode version: 12.5
 + Operating system version: macOS Big Sur 11.6.1 
@@ -124,7 +109,7 @@ Run bundle install:
 
 - `bundle exec fastlane prepare`
 
-### Actions
+### 2. Auto build
 
 - `bundle exec fastlane build`
 
