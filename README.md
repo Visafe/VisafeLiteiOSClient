@@ -1,5 +1,5 @@
 
-### [VisafeiOS Legacy Repository](https://github.com/Visafe/VisafeIOS) migrated and now maintance at [VisafeLiteiOSClient](https://github.com/Visafe/VisafeLiteiOSClient)
+### [VisafeiOS Legacy Repository](https://github.com/Visafe/VisafeIOS) migrated and now maintaint at [VisafeLiteiOSClient](https://github.com/Visafe/VisafeLiteiOSClient)
 
 
 <p align="center">
