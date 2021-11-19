@@ -6,7 +6,7 @@
 </p>
 <h1 align="center">Visafe - Internet an toàn</h1>
 
-### Repo VisafeiOS Legacy được chuyển sang maintance tại repo VisafeLightiOSClient
+### Repo VisafeiOS Legacy được chuyển sang maintance tại repo VisafeLiteiOSClient
 
 <div style="text-align: center">Visafe Lite iOS là ứng dụng miễn phí để người sử dụng có thể bảo vệ mình và người thân trên không gian mạng khỏi các hình thức tấn công mạng cơ bản của mã độc, trang web độc hại, lừa đảo, quảng cáo nguy hiểm. </div>
 <br>
@@ -62,7 +62,7 @@ Xem thêm tại: https://visafe.vn
   <h5>Language: English</h5> 
 </p>
 
-### VisafeiOS Legacy Repository migrated and now maintance at VisafeLightiOSClient
+### VisafeiOS Legacy Repository migrated and now maintance at VisafeLiteiOSClient
 
 <div style="text-align: center">VisafeiOSLite, forked from AdguardForiOS, is a free application created to protect users and their families from malware, unsafe websites, scams, and dangerous advertisements.</div>
 
