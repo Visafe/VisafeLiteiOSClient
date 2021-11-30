@@ -1,6 +1,7 @@
-<p align="left">
-  <h5>Ngôn ngữ: Tiếng Việt</h5> 
-</p>
+
+### [VisafeiOS Legacy Repository](https://github.com/Visafe/VisafeIOS) migrated and now maintained at [VisafeLiteiOSClient](https://github.com/Visafe/VisafeLiteiOSClient)
+
+
 <p align="center">
   <img width="300px" src="https://app.visafe.vn/static/media/wesafe_icon.ddf9251c.png"/>
 </p>
